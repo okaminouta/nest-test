@@ -36,6 +36,9 @@ $ npm install
 
 ## Running the app
 
+nest/psql
+using remote db
+
 ```bash
 # development
 $ npm run start
