@@ -1,0 +1,12 @@
+{
+  "type": "postgres",
+  "host": "balarama.db.elephantsql.com",
+  "port": 5432,
+  "username": "uxzlnuho",
+  "password": "kqGwKVf8aXI-NUFVOIE8mILN3XwYzCzF",
+  "database": "uxzlnuho",
+  "synchronize": true,
+  "dropSchema": false,
+  "logging": true,
+  "entities": ["src/**/*.entity.ts", "dist/**/*.entity.js"]
+}
